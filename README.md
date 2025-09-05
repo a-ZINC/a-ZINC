@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! I'm a 3rd-year Electronics and Communication Engineering student at the Indian Institute of Technology, Nagpur (IIITN). I specialize in full-stack web development with the MERN stack and have a strong foundation in competitive programming with C++.<br><br>I'm passionate about machine learning and deep learning, particularly interested in integrating ML into web technologies (WebML). My goal is to leverage these cutting-edge technologies to build intelligent and dynamic web applications that enhance user experiences.<br><br>When I'm not coding or diving into algorithms, you can find me contributing to open-source projects or exploring the latest trends in AI.<br><br>Feel free to reach out if you want to collaborate on projects or discuss innovative ideas in tech!<br>
+Corporate majdoor
 
 
 ## 🌐 Socials:
