@@ -37,9 +37,9 @@ I’m **Ajinkya Singh**, passionate about building **scalable backend systems**,
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=a-ZINC&theme=radical&show_icons=true&count_private=true)
+![Stats](./profile/stats.svg)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=a-ZINC&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=a-ZINC&theme=radical&hide=html,css,shell&layout=compact)
+![Top Languages](./profile/top-langs.svg)
 
 
 ## 🏆 GitHub Trophies
